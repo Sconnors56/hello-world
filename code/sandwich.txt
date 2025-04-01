@@ -1,0 +1,12 @@
+estimate: 25 lines
+
+Grab the ingredients (peanut butter, jam, and bread)
+Grab the tools (knife, plate)
+Place 2 slices of bread on the plate
+Take the knife and scoop the peanut butter from the container
+Apply the peanut butter to one slice of bread
+Smooth evenly across one slice of bread
+Take the knife and scoop the jam from the container
+Apply the jam to the other slice of bread
+Smooth evenly across that slice of bread
+Take the two slices of bread and put them together with the two applied sides together
