@@ -1,4 +1,4 @@
-estimate: 25 lines
+estimate: 20 lines
 
 Grab the ingredients (peanut butter, jelly, and bread) and place them on the table
 Grab the tools (knife, plate) and place them on the table
