@@ -1,12 +1,22 @@
 estimate: 25 lines
 
-Grab the ingredients (peanut butter, jam, and bread)
-Grab the tools (knife, plate)
-Place 2 slices of bread on the plate
-Take the knife and scoop the peanut butter from the container
+Grab the ingredients (peanut butter, jelly, and bread) and place them on the table
+Grab the tools (knife, plate) and place them on the table
+Place 2 slices of bread on top of the plate
+Open the container of peanut butter
+Open the container of jelly
+Take the knife
+Scoop about a 1/4 cup of peanut butter from the container
 Apply the peanut butter to one slice of bread
-Smooth evenly across one slice of bread
-Take the knife and scoop the jam from the container
-Apply the jam to the other slice of bread
-Smooth evenly across that slice of bread
-Take the two slices of bread and put them together with the two applied sides together
+Smooth the peanut butter evenly across one side of the slice of bread
+Using the same knife, scoop about a 1/4 cup of jelly from the container
+Apply the jelly to the other slice of bread
+Smooth evenly across one side of that slice of bread
+Put the knife down on the table
+Close the container of peanut butter
+Close the container of peanut butter
+Pickup the two slices of bread
+Put the two slices of bread together so that the peanut butter is touching the jelly
+Put the combined sandwich back on the plate
+Cut the sandwich in half using the knife
+Serve the sandwich
